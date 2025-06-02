@@ -1,5 +1,8 @@
 # SERIAL IN SERIAL OUT SHIFTREGISTER
 
+# DEVELOPED BY: NITHISH S 
+# REGISTER NO: 212224240105
+
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
